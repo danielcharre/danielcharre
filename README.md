@@ -46,7 +46,7 @@ E essa jornada está só começando! Em breve, darei mais um grande passo na min
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=danielcharreghazra&show_icons=true&theme=transparent"/>
+    src="https://github-readme-stats.vercel.app/api?username=danielcharre&show_icons=true&theme=transparent"/>
 
 <img
     align="left"
