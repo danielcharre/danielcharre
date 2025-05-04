@@ -46,13 +46,13 @@ E essa jornada está só começando! Em breve, darei mais um grande passo na min
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+    src="https://github-readme-stats.vercel.app/api?username=danielcharreghazra&show_icons=true&theme=transparent"/>
 
 <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XakiDaniel&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharre&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9">
 </div>
 
 
